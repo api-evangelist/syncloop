@@ -1,6 +1,7 @@
 aid: syncloop
 name: Syncloop
-description: 'Think Big, Build Live and Scale Unlimitedon Syncloop '
+description: >-
+  Think Big, Build Live and Scale Unlimitedon Syncloop.
 type: Index
 position: Consumer
 access: 3rd-Party
@@ -15,7 +16,8 @@ specificationVersion: '0.19'
 apis:
   - aid: syncloop:syncloop
     name: Syncloop
-    description: 'Think Big, Build Live and Scale Unlimitedon Syncloop '
+    description: >-
+      Think Big, Build Live and Scale Unlimitedon Syncloop.
     humanURL: ' https://www.syncloop.com/index.html?utm_source=Website&utm_medium=logo-click&utm_id=Logo&utm_content=header-logo'
     tags:
       - API
