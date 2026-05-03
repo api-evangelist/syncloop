@@ -1,0 +1,94 @@
+vocabulary:
+  name: Syncloop API Platform Vocabulary
+  description: >-
+    Vocabulary for the Syncloop API development and management platform,
+    covering API design, deployment, management, security, and integration concepts.
+  version: '1.0'
+  created: '2026-05-03'
+  terms:
+    - term: API Service
+      definition: >-
+        A Syncloop unit of work that encapsulates a sequence of services within
+        a single deployable endpoint, supporting complex integration scenarios
+        with data mapping and conditional logic.
+      tags:
+        - API Design
+        - Service
+        - Integration
+
+    - term: Visual API Builder
+      definition: >-
+        Syncloop's drag-and-drop interface for designing API workflows without
+        extensive coding, enabling low-code API creation.
+      tags:
+        - Low Code
+        - Visual Design
+        - API Development
+
+    - term: Auto-Documentation
+      definition: >-
+        Syncloop's feature for automatically generating API documentation from
+        the service definition, producing OpenAPI-format output.
+      tags:
+        - Documentation
+        - OpenAPI
+        - Developer Experience
+
+    - term: Rate Limiting
+      definition: >-
+        A Syncloop API gateway capability that controls the number of requests
+        a client can make within a specified time window.
+      tags:
+        - Security
+        - Gateway
+        - Traffic Management
+
+    - term: RBAC
+      definition: >-
+        Role-Based Access Control — Syncloop's authorization framework for
+        controlling API access based on user roles and permissions.
+      tags:
+        - Security
+        - Authorization
+        - Access Control
+
+    - term: Connector
+      definition: >-
+        A pre-built Syncloop integration module for connecting to external
+        services, databases, or APIs, reducing integration development time.
+      tags:
+        - Integration
+        - Plugin
+        - Connector
+
+    - term: Multi-Environment Deployment
+      definition: >-
+        Syncloop's capability to deploy and manage APIs across multiple
+        environments including development, staging, and production.
+      tags:
+        - Deployment
+        - DevOps
+        - Lifecycle Management
+
+    - term: Dynamic Data Mapping
+      definition: >-
+        Syncloop's data transformation capability for converting between
+        different data formats and structures during API workflow execution.
+      tags:
+        - Integration
+        - Data Transformation
+        - Mapping
+
+  dimensions:
+    operational:
+      - API Design and Building
+      - API Deployment
+      - API Management
+      - Security Enforcement
+      - Monitoring and Analytics
+    capability:
+      - API Gateway
+      - Developer Portal
+      - Integration Platform
+      - Low-Code Development
+      - API Monetization
