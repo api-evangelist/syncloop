@@ -38,6 +38,10 @@ apis:
         url: https://www.syncloop.com/docs/setup-and-installation.html
 
 common:
+  - type: GitHubOrganization
+    url: https://github.com/syncloop-dev
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/syncloop
   - type: Website
     url: https://www.syncloop.com
   - type: Documentation
