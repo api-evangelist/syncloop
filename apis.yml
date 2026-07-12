@@ -38,6 +38,8 @@ apis:
         url: https://www.syncloop.com/docs/setup-and-installation.html
 
 common:
+  - type: DomainSecurity
+    url: security/syncloop-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/syncloop-dev
   - type: LinkedIn
