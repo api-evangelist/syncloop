@@ -2,13 +2,11 @@
   "repo": "syncloop",
   "feeds": [
     {
-      "source": "https://www.syncloop.com/blogs/",
-      "feed_url": "",
-      "saved": 0,
-      "method": "agent-scrape"
+      "source": "https://www.syncloop.com/developers.html",
+      "error": "HTTPError"
     }
   ],
-  "fetched": "2026-06-27T13:15:03Z",
-  "post_count": 11,
-  "agent_pulled": "2026-06-27"
+  "fetched": "2026-07-11T11:50:51Z",
+  "post_count": 12,
+  "agent_pulled": "2026-07-04"
 }
